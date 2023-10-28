@@ -7,7 +7,8 @@ export const TransactionHistory = ({ items }) => {
       <table className={styles.table}>
         <thead className={styles.headerTable}>
           <tr>
-            <th>Type</th>
+                      <th>Type</th>
+                      
             <th>Amount</th>
             <th>Currency</th>
           </tr>
